@@ -1,0 +1,12 @@
+#!name=Viiguo
+#!desc=Viiguo Host
+#!system=mac
+
+[Rule]
+DOMAIN-SUFFIX,viiguo.domain,ForceVPN
+
+[Host]
+gitlab.viiguo.domain = 10.10.10.3
+pms.viiguo.domain = 10.10.10.2
+jenkins.viiguo.domain = 10.10.10.2
+test-static.viiguo.domain = 10.10.10.2
