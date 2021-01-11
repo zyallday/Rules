@@ -1,0 +1,6 @@
+#!name=Home Wifi Suspend
+#!desc=Home Wifi Suspend
+
+[SSID Setting]
+"Lostjobs-H" suspend=true
+"Lostjobs-H-5G" suspend=true
